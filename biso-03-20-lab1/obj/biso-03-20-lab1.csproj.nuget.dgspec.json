@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aykaz\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj": {}
+    "C:\\Users\\dasha\\Source\\Repos\\biso-03-20-lab11\\biso-03-20-lab1\\biso-03-20-lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aykaz\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj": {
+    "C:\\Users\\dasha\\Source\\Repos\\biso-03-20-lab11\\biso-03-20-lab1\\biso-03-20-lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aykaz\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj",
+        "projectUniqueName": "C:\\Users\\dasha\\Source\\Repos\\biso-03-20-lab11\\biso-03-20-lab1\\biso-03-20-lab1.csproj",
         "projectName": "biso-03-20-lab1",
-        "projectPath": "C:\\Users\\aykaz\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj",
-        "packagesPath": "C:\\Users\\aykaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aykaz\\biso-03-20-lab1\\biso-03-20-lab1\\obj\\",
+        "projectPath": "C:\\Users\\dasha\\Source\\Repos\\biso-03-20-lab11\\biso-03-20-lab1\\biso-03-20-lab1.csproj",
+        "packagesPath": "C:\\Users\\dasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dasha\\Source\\Repos\\biso-03-20-lab11\\biso-03-20-lab1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\aykaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

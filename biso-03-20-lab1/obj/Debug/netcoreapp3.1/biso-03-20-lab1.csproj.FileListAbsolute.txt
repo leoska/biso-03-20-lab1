@@ -12,3 +12,17 @@ C:\Users\georg\Source\Repos\biso-03-20-lab1\biso-03-20-lab1\obj\Debug\netcoreapp
 C:\Users\georg\Source\Repos\biso-03-20-lab1\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.dll
 C:\Users\georg\Source\Repos\biso-03-20-lab1\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.pdb
 C:\Users\georg\Source\Repos\biso-03-20-lab1\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.genruntimeconfig.cache
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\bin\Debug\netcoreapp3.1\biso-03-20-lab1.exe
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\bin\Debug\netcoreapp3.1\biso-03-20-lab1.deps.json
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\bin\Debug\netcoreapp3.1\biso-03-20-lab1.runtimeconfig.json
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\bin\Debug\netcoreapp3.1\biso-03-20-lab1.runtimeconfig.dev.json
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\bin\Debug\netcoreapp3.1\biso-03-20-lab1.dll
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\bin\Debug\netcoreapp3.1\biso-03-20-lab1.pdb
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.csproj.AssemblyReference.cache
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.AssemblyInfoInputs.cache
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.AssemblyInfo.cs
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.dll
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.pdb
+C:\Users\dasha\Source\Repos\biso-03-20-lab11\biso-03-20-lab1\obj\Debug\netcoreapp3.1\biso-03-20-lab1.genruntimeconfig.cache

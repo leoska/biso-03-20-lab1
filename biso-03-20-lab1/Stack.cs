@@ -33,7 +33,7 @@ namespace biso_03_20_lab1
                 tmp.Push(Pop());
             }
             int Result = stack[Count() - 1];
-            for (int i = tmp.Count() - 1; i > 0; i--)
+            for (int i = tmp.Count() - 1; i >= 0; i--)
             {
                 Push(tmp.Pop());
             }
@@ -48,11 +48,19 @@ namespace biso_03_20_lab1
                 tmp.Push(Pop());
             }
             stack[Count() - 1] = value;
-            for (int i = tmp.Count() - 1; i > 0; i--)
+            for (int i = tmp.Count() - 1; i >= 0; i--)
             {
                 Push(tmp.Pop());
             }
         }
-            
+         
+        public void Print ()
+        {
+            foreach (int Item in stack)
+            {
+                Console.WriteLine(Item);
+            }
+            Console.WriteLine("-----------------------------------------------------------------------------------------");
+        }
     }
 }
