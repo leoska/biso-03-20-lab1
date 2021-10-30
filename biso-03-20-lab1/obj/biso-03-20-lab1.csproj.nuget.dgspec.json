@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj": {}
+    "D:\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj": {}
   },
   "projects": {
-    "D:\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj": {
+    "D:\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj",
+        "projectUniqueName": "D:\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj",
         "projectName": "biso-03-20-lab1",
-        "projectPath": "D:\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj",
+        "projectPath": "D:\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1.csproj",
         "packagesPath": "C:\\Users\\Leo77\\.nuget\\packages\\",
-        "outputPath": "D:\\biso-03-20-lab1\\biso-03-20-lab1\\biso-03-20-lab1\\obj\\",
+        "outputPath": "D:\\biso-03-20-lab1\\biso-03-20-lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leo77\\AppData\\Roaming\\NuGet\\NuGet.Config",
